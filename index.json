@@ -11,12 +11,12 @@
     },
    {
       "name": {
-        "english": "",
-        "sanskrit": ""
+        "english": "__",
+        "sanskrit": "__"
       },
-      "picture" : "",
-      "description" : "",
-      "benefit" : ""
+      "picture" : "__",
+      "description" : "__",
+      "benefit" : "__"
     },
   ]
 }
