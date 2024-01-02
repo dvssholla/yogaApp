@@ -1,18 +1,66 @@
 {
   "results": [
     {
-      "english": "Lotus Pose",
-      "sanskrit": "Padmasana",
-      "picture" : "https://www.yogabreezebali.com/wp-content/themes/cust-theme-6/img/padmasana-550x550.jpg",
-      "description" : "Feet on the top of thighs, Spine elongate, mind the knees, and relax the shoulders. Top of the head toward the ceiling and chin slightly down.",
-      "benefit" : "Hip Opening, Relaxing, Improving Posture"
-    },
-   {
-      "english": "__",
-      "sanskrit": "__",
-      "picture" : "__",
-      "description" : "__",
-      "benefit" : "__"
-    },
-  ]
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Gerard",
+        "last": "Schier"
+      },
+      "location": {
+        "street": {
+          "number": 2166,
+          "name": "Kastanienweg"
+        },
+        "city": "Donaueschingen",
+        "state": "Baden-Württemberg",
+        "country": "Germany",
+        "postcode": 11365,
+        "coordinates": {
+          "latitude": "-47.4181",
+          "longitude": "-14.2748"
+        },
+        "timezone": {
+          "offset": "-3:00",
+          "description": "Brazil, Buenos Aires, Georgetown"
+        }
+      },
+      "email": "gerard.schier@example.com",
+      "login": {
+        "uuid": "4c537300-4d5e-43a1-80ee-93e8515b8bea",
+        "username": "tinytiger646",
+        "password": "12344321",
+        "salt": "rYu5pOfa",
+        "md5": "79a74935476cd6a805a6460b01094733",
+        "sha1": "623b2766808029944a8ba5962a63ba7464db9847",
+        "sha256": "91cb7af1f1a245529882d8050e6a1a401207ca98b933e706809e0da970c41a7c"
+      },
+      "dob": {
+        "date": "1955-08-07T11:38:00.162Z",
+        "age": 68
+      },
+      "registered": {
+        "date": "2020-12-21T01:41:10.019Z",
+        "age": 3
+      },
+      "phone": "0303-7578692",
+      "cell": "0170-2515969",
+      "id": {
+        "name": "SVNR",
+        "value": "62 070855 S 161"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+      },
+      "nat": "DE"
+    }
+  ],
+  "info": {
+    "seed": "39486beae0c6c807",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
 }
