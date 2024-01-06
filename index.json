@@ -35,6 +35,24 @@
       "picture": "https://www.yogabreezebali.com/wp-content/themes/cust-theme-6/img/balasana-550x550.jpg",
       "description": "Big toes together, sitting on the hills, knees open, spine round, belly between thighs, forehead on the floor, shoulder relaxed.",
       "benefits": "Stretches the spine hips and thighs, calms the nervous system and relieves tiredness"
+    },
+    {
+      "name": {
+        "english": "Cow Pose",
+        "sanskrit": "Bitilasana"
+      },
+      "picture": "https://www.yogabreezebali.com/wp-content/themes/cust-theme-6/img/bitilasana-550x550.jpg",
+      "description": "Pull the shoulders away from the ears, mind spine compression, stay grounded, and keep the body weight centered.",
+      "benefits": "Improves mobility and stability of the body joints. Awakes the body and develops awareness"
+    },
+    {
+      "name": {
+        "english": "Cat Pose",
+        "sanskrit": "Marjariasana"
+      },
+      "picture": "https://www.yogabreezebali.com/wp-content/themes/cust-theme-6/img/marjariasana-550x550.jpg",
+      "description": "Pull the shoulder blades away from each other. Push the floor away with your hands and knees, and keep your body weight centered. Spine rounded.",
+      "benefits": "Improves mobility and stability of the body joints. Awakens the body and mind awareness"
     }
   ]
 }
