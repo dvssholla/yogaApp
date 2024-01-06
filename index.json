@@ -53,6 +53,33 @@
       "picture": "https://www.yogabreezebali.com/wp-content/themes/cust-theme-6/img/marjariasana-550x550.jpg",
       "description": "Pull the shoulder blades away from each other. Push the floor away with your hands and knees, and keep your body weight centered. Spine rounded.",
       "benefits": "Improves mobility and stability of the body joints. Awakens the body and mind awareness"
+    },
+    {
+      "name": {
+        "english": "Warrior I",
+        "sanskrit": "Virabhadrasana I"
+      },
+      "picture": "https://www.yogabreezebali.com/wp-content/themes/cust-theme-6/img/virabhadrasana-I-550x550.jpg",
+      "description": "Front knee above heel, Hips facing forward, tail bone tucked in, Legs and core engaged, Chest open and lifted up. Back foot firmly press.",
+      "benefits": "Improves the rotation of the hips and mobilizes the spine, stretch and strengthening, improves breathing and circulation"
+    },
+    {
+      "name": {
+        "english": "Warrior II",
+        "sanskrit": "Virabhadrasana II"
+      },
+      "picture": "https://www.yogabreezebali.com/wp-content/themes/cust-theme-6/img/virabhadrasana-II-550x550.jpg",
+      "description": "Front knee above the heel, hips facing to the side, tail bone tuck in, arms in a line, shoulders above the hips.",
+      "benefits": "Hips opener, overall body strength, respiration/circulation"
+    },
+    {
+      "name": {
+        "english": "Warrior III",
+        "sanskrit": "Virabhadrasana III"
+      },
+      "picture": "https://www.yogabreezebali.com/wp-content/themes/cust-theme-6/img/virabhadrasana-III-550x550.jpg",
+      "description": "The lifted heel, hips, shoulders and ankle should all be aligned, and the hips on the same level.",
+      "benefits": "Develops control, balance and focus."
     }
   ]
 }
